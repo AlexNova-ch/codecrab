@@ -3,6 +3,8 @@
 [![Development Status](https://img.shields.io/badge/status-in%20development-orange)]()
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Tech Stack](https://img.shields.io/badge/Tech-React%20Native%20%7C%20Expo-blue)]()
+[![AI Assistant: DeepSeek](https://img.shields.io/badge/AI%20Assistant-DeepSeek-blue)]()
+[![AI Assistant: Claude (Anthropic)](https://img.shields.io/badge/AI%20Assistant-Claude%20(Anthropic)-blue)]()
 
 ## Core Concept
 

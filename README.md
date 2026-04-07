@@ -3,6 +3,8 @@
 [![开发状态](https://img.shields.io/badge/状态-开发中-orange)]()
 [![许可证: MIT](https://img.shields.io/badge/许可证-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![技术栈](https://img.shields.io/badge/技术-React%20Native%20%7C%20Expo-blue)]()
+[![AI 协助: DeepSeek](https://img.shields.io/badge/AI%20协助-DeepSeek-blue)]()
+[![AI 协助: Claude (Anthropic)](https://img.shields.io/badge/AI%20协助-Claude%20(Anthropic)-blue)]()
 
 ## 核心概念
 
